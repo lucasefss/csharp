@@ -1,0 +1,15 @@
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\bin\Debug\net6.0\TestesDio.exe
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\bin\Debug\net6.0\TestesDio.deps.json
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\bin\Debug\net6.0\TestesDio.runtimeconfig.json
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\bin\Debug\net6.0\TestesDio.dll
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\bin\Debug\net6.0\ref\TestesDio.dll
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\bin\Debug\net6.0\TestesDio.pdb
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\obj\Debug\net6.0\TestesDio.csproj.AssemblyReference.cache
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\obj\Debug\net6.0\TestesDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\obj\Debug\net6.0\TestesDio.AssemblyInfoInputs.cache
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\obj\Debug\net6.0\TestesDio.AssemblyInfo.cs
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\obj\Debug\net6.0\TestesDio.csproj.CoreCompileInputs.cache
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\obj\Debug\net6.0\TestesDio.dll
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\obj\Debug\net6.0\ref\TestesDio.dll
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\obj\Debug\net6.0\TestesDio.pdb
+C:\Users\Ragnar\source\repos\TestesDio\TestesDio\obj\Debug\net6.0\TestesDio.genruntimeconfig.cache
